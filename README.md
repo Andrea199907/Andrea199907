@@ -8,6 +8,5 @@
 **Creative Web Designer & Software Developer**
 
 <p align="center">
-  <img src="![Uploading 5c9059f18336d0de3187b1fc0c0e66fa.gif…]()
-" />
+  <img src="https://github.com/user-attachments/assets/5c9059f1-8336-40de-b187-b1fc0c0e66fa" width="100%" />
 </p>
