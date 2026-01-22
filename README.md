@@ -6,3 +6,7 @@
 
 ### 🚀 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
 **Creative Web Designer & Software Developer**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1QHpHvKn7i/giphy.gif" width="100%" />
+</p>
