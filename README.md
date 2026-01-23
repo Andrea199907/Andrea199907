@@ -7,6 +7,8 @@
 ### 🚀 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
 **Creative Web Designer & Software Developer**
 
+<img align="right" src="https://github.com/user-attachments/assets/fa465b8e-ae1e-4019-8648-405f591d20d4" width="180" style="margin-top: 20px;">
+
 ### 🛠️ My Tech Stack
 
 | Languages |
@@ -20,5 +22,3 @@
 | Backend & Tools |
 | :--- |
 | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-
-
