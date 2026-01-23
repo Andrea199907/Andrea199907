@@ -2,9 +2,9 @@
   <img src="https://github.com/user-attachments/assets/4f9b9f2a-1132-4733-b6e9-490225941641" width="100%" />
 </p>
 
-# Hi, I'm Andy. I build for the web.
+# Hi, I'm Andy.
 
-### Desarrollador Web en formación | Transformando conceptos en interfaces interactivas
+### Desarrolladora Web en formación | Transformando conceptos en interfaces interactivas
 
 ### 🛠️ My Tech Stack
 
