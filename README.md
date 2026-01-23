@@ -7,7 +7,7 @@
 ### 🚀 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
 **Creative Web Designer & Software Developer**
 
-<img align="right" src="https://github.com/user-attachments/assets/92a02664-0a2f-4f96-924f-031ad0698195" witdh="150px" style="margin-top: 20px;">
+<img align="right" src="https://github.com/user-attachments/assets/92a02664-0a2f-4f96-924f-031ad0698195" witdh="250" style="margin-top: 20px;">
 
 ### 🛠️ My Tech Stack
 
