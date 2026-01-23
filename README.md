@@ -7,18 +7,16 @@
 ### 🚀 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
 **Creative Web Designer & Software Developer**
 
-<img align="right" src="https://github.com/user-attachments/assets/92a02664-0a2f-4f96-924f-031ad0698195" width="180" style="margin-top: 20px;">
-
 ### 🛠️ My Tech Stack
 
-| Languages (Pizarra Green) |
+| Languages |
 | :--- |
-| ![Java](https://img.shields.io/badge/Java-2d3428?style=for-the-badge&logo=openjdk&logoColor=e0e0e0) ![JavaScript](https://img.shields.io/badge/JavaScript-2d3428?style=for-the-badge&logo=javascript&logoColor=e0e0e0) ![PHP](https://img.shields.io/badge/PHP-2d3428?style=for-the-badge&logo=php&logoColor=e0e0e0) |
+| ![Java](https://img.shields.io/badge/Java-6F4E37?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-A67C52?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-5C6B4E?style=for-the-badge&logo=php&logoColor=white) |
 
-| Frontend & Design (Sand & Steam) |
+| Frontend & Design |
 | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-d4a373?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-d4a373?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-d4a373?style=for-the-badge&logo=bootstrap&logoColor=white)|
+| ![HTML5](https://img.shields.io/badge/HTML5-8B4513?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-3E4C31?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-704214?style=for-the-badge&logo=bootstrap&logoColor=white)|
  
-| Backend & Tools (Coffee & Wood) |
+| Backend & Tools |
 | :--- |
-| ![MySQL](https://img.shields.io/badge/MySQL-6f4e37?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-6f4e37?style=for-the-badge&logo=mariadb&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-6f4e37?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-6f4e37?style=for-the-badge&logo=git&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-2F3528?style=for-the-badge&logo=mysql&logoColor=D2B48C) ![MariaDB](https://img.shields.io/badge/MariaDB-483C32?style=for-the-badge&logo=mariadb&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-A0522D?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-1B1F17?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white) |
