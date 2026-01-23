@@ -2,10 +2,9 @@
   <img src="https://github.com/user-attachments/assets/4f9b9f2a-1132-4733-b6e9-490225941641" width="100%" />
 </p>
 
-# Hi there, I'm Andy 👋
+# Hi, I'm Andy. I build for the web.
 
-### 🚀 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
-**Creative Web Designer & Software Developer**
+### Desarrollador Web en formación | Transformando conceptos en interfaces interactivas
 
 ### 🛠️ My Tech Stack
 
