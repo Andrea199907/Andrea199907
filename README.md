@@ -19,3 +19,20 @@ Soy una estudiante de **2º de DAW** apasionada por el desarrollo **Frontend** y
 | Backend & Tools |
 | :--- |
 | ![MySQL](https://img.shields.io/badge/MySQL-2D3428?style=for-the-badge&logo=mysql&logoColor=D4A373) ![MariaDB](https://img.shields.io/badge/MariaDB-8B7355?style=for-the-badge&logo=mariadb&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-BC4A3C?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/Git-1B1F17?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white) |
+
+### 🛠️ Mis Habilidades y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-D4A373?style=for-the-badge&logo=javascript&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Frontend-4B5332?style=for-the-badge" height="28">
+  <img src="https://img.shields.io/badge/Java-6F4E37?style=for-the-badge&logo=openjdk&logoColor=white" height="35">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-A0522D?style=for-the-badge&logo=html5&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/CSS3-3E4C31?style=for-the-badge&logo=css3&logoColor=white" height="22">
+  <img src="https://img.shields.io/badge/Laravel-BC4A3C?style=for-the-badge&logo=laravel&logoColor=white" height="33">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-2D3428?style=for-the-badge&logo=mysql&logoColor=D4A373" height="26">
+  <img src="https://img.shields.io/badge/PHP-4B5332?style=for-the-badge&logo=php&logoColor=white" height="20">
+  <img src="https://img.shields.io/badge/Git-1B1F17?style=for-the-badge&logo=git&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/Bootstrap-5D4037?style=for-the-badge&logo=bootstrap&logoColor=white" height="18">
+</p>
