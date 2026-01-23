@@ -4,7 +4,7 @@
 
 # Hi there, I'm Andy 👋
 
-### Soy una estudiante de **2º de DAW** apasionada por el desarrollo **Frontend** y el diseño visual. Mi objetivo es fusionar la lógica de la programación con interfaces intuitivas y estéticas. Me encanta cuidar cada detalle del código, asegurándome de que cada píxel cuente.
+Soy una estudiante de **2º de DAW** apasionada por el desarrollo **Frontend** y el diseño visual. Mi objetivo es fusionar la lógica de la programación con interfaces intuitivas y estéticas. Me encanta cuidar cada detalle del código, asegurándome de que cada píxel cuente.
 
 ### 🛠️ My Tech Stack
 
