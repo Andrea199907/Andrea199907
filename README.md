@@ -4,7 +4,8 @@
 
 # Hi, I'm Andy.
 
-### Desarrolladora Web en formación | Transformando conceptos en interfaces interactivas
+### Desarrolladora Web en formación 
+Transformando conceptos en interfaces interactivas
 
 ### 🛠️ My Tech Stack
 
