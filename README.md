@@ -10,7 +10,7 @@ Soy una estudiante de **2º de DAW** apasionada por el desarrollo **Frontend** y
 
 | Languages |
 | :--- |
-| ![Java](https://img.shields.io/badge/Java-6F4E37?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-D4A373?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4B5332?style=for-the-badge&logo=php&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-6F4E37?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-449c9c?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-4B5332?style=for-the-badge&logo=php&logoColor=white) |
 
 | Frontend & Design |
 | :--- |
